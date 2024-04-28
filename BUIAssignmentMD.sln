@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "BUIAssignmentMD", "BUIAssignmentMD\BUIAssignmentMD.dwproj", "{0C177D26-68ED-4D07-8767-E8ACAEC3BC4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C177D26-68ED-4D07-8767-E8ACAEC3BC4D}.Development|Default.ActiveCfg = Development
+		{0C177D26-68ED-4D07-8767-E8ACAEC3BC4D}.Development|Default.Build.0 = Development
+		{0C177D26-68ED-4D07-8767-E8ACAEC3BC4D}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB32296D-4D4A-45C3-B164-A7157CB842DB}
+	EndGlobalSection
+EndGlobal
